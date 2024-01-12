@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Destini Banner](Documentation/Destini%20Swift.jpg)
 
 #  Destini
 

@@ -8,11 +8,10 @@
 
 import Foundation
 
-//custom data type for our structure in storybrain
-struct Story{
-    let title:String
-    let choice1:String
-    let choice1Destination:Int
-    let choice2:String
-    let choice2Destination:Int
+struct Story {
+    let title: String
+    let choice1: String
+    let choice1Destination: Int
+    let choice2: String
+    let choice2Destination: Int
 }
